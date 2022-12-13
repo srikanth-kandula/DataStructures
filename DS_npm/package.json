@@ -1,0 +1,8 @@
+{
+    "devDependencies": {
+        "@datastructures-js/binary-search-tree": "file:./node_modules/@datastructures-js/binary-search-tree"
+    },
+    "dependencies": {
+        "datastructures-js": "^11.0.0"
+    }
+}
